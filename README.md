@@ -6,6 +6,8 @@ Maratona da trilha Ignite da 9ª Edição do Next Level Week, realizado entre os
 
 O  objetivo do evento, é de dar um up nos conhecimentos das tecnologias mais modernas na Stack de javascript.
 
+<img src='web-and-app-sample.png' alt='Amostra'/>
+
 <h2 style="text-align:center;">
  Documentações
 </h2>
